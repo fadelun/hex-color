@@ -2,4 +2,4 @@ I'm trying to accept a challenge from Miguel Nunez to practice my front-end skil
 
 
 
-to see the result you can visit this https://fadelun.github.io/hex-color/
+to see the result you can visit this https://fadelun.github.io/hex-colors/
